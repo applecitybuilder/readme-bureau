@@ -1,7 +1,6 @@
 <div align="center">
   <br />
       <img src="https://i.postimg.cc/HxWqScfh/bureau.png" alt="Project Banner">
-    </a>
   <br />
   <div>
      <br />
