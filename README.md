@@ -1,3 +1,5 @@
+‼ This project is for showcase purpose only for the full project please contact ‼
+
 <div align="center">
   <br />
       <img src="bureau.png" alt="Project Banner">
@@ -77,7 +79,7 @@ Make sure you have the following installed on your machine:
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
-- [pnpm]((https://pnpm.io/)) (PNode Package Manager)
+- [pnpm](<(https://pnpm.io/)>) (PNode Package Manager)
 
 **Cloning the Repository**
 
@@ -105,19 +107,23 @@ Open [http://localhost:8080](http://localhost:8080) in your browser to view the 
 ## <a name="links">🔗 Links</a>
 
 - [Design](https://www.figma.com/design/qTHuhErF1stfS6EgtzAN39/Untitled?node-id=0-1&t=AHUjD5eolg3KOPQK-1)
-- [Live Website](https://bureau-desk-91.netlify.app/)
+- [Live Website](https://bureau-desk-91.netlify.app/?ref=bureau-sc)
 
 ## <a name="more">🚀 More</a>
+
 Feel free to reach out via email or phone — I’m always happy to connect!
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px;">
   <!-- Email badge -->
-  <a href="mailto:carl@gmail.com">
+  <a href="kevinmijnhijmer@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <!-- Mobile badge -->
-  <a href="tel:+3160000000">
+  <a href="tel:+31687116135">
     <img src="https://img.shields.io/badge/-Mobile-34A853?style=for-the-badge&logo=whatsapp&logoColor=white" alt="mobile" />
+  </a>
+  <a href="https://www.mijnh.live?ref=bureau-sc">
+    <img src="https://img.shields.io/badge/-Portfolio-1E90FF?style=for-the-badge&logoColor=white" alt="portfolio" />
   </a>
 </div>
 
